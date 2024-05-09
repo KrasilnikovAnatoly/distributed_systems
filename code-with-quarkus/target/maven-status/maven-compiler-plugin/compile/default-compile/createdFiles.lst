@@ -1,0 +1,8 @@
+org/acme/model/MyClassRepository.class
+org/acme/controllers/api/ControllerInMemory.class
+org/acme/controllers/postgres/ControllerPanache.class
+org/acme/controllers/rabbit/ControllerRabbit.class
+META-INF/panache-archive.marker
+org/acme/controllers/postgres/ControllerSQL.class
+org/acme/controllers/metric/ControllerMetric.class
+org/acme/model/MyClass.class
