@@ -1,7 +1,0 @@
-org\acme\controllers\ControllerPanache.class
-org\acme\controllers\ControllerInMemory.class
-META-INF\panache-archive.marker
-org\acme\controllers\GreetingResource.class
-org\acme\controllers\ControllerSQL.class
-org\acme\model\MyClassRepository.class
-org\acme\model\MyClass.class
